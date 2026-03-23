@@ -26,6 +26,12 @@ Current research direction:
 
 ## Work Delivered (Public)
 
+- [hms-harmful-brain-activity-classification](https://github.com/sserkanakin/hms-harmful-brain-activity-classification)
+  Kaggle HMS project summary with methodology notes, experimentation structure, and implementation roadmap.
+
+- [bachelor-thesis-research-archive](https://github.com/sserkanakin/bachelor-thesis-research-archive)
+  Bachelor thesis research project with analysis notebooks, experiments, and documented outcomes.
+
 - [multimodal-understanding-reproduction-pipeline](https://github.com/sserkanakin/multimodal-understanding-reproduction-pipeline)
   End-to-end pipeline for dataset preparation, model fine-tuning, and benchmarking in multi-image understanding tasks.
 
@@ -39,11 +45,6 @@ Current research direction:
 
 - **Public**: polished repos with reusable value, clear README, and clean project narrative.
 - **Private**: coursework drafts, internal/prototype code, and pre-thesis private research work.
-- **Archived**: older bachelor-era material maintained for historical context.
-
-## Archived / Older Work
-
-- [bachelor-thesis-research-archive](https://github.com/sserkanakin/bachelor-thesis-research-archive) (private)
 
 ## Planned Update
 

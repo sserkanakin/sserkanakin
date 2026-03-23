@@ -26,8 +26,11 @@ Current research direction:
 
 ## Work Delivered (Public)
 
+- [HMS-Kaggle (collaboration repo)](https://github.com/denskrlv/HMS-Kaggle)
+  Core Kaggle HMS collaboration repository developed with Denis.
+
 - [hms-harmful-brain-activity-classification](https://github.com/sserkanakin/hms-harmful-brain-activity-classification)
-  Kaggle HMS project summary with methodology notes, experimentation structure, and implementation roadmap.
+  My structured summary repo for methodology notes and implementation roadmap.
 
 - [bachelor-thesis-research-archive](https://github.com/sserkanakin/bachelor-thesis-research-archive)
   Bachelor thesis research project with analysis notebooks, experiments, and documented outcomes.

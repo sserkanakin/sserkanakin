@@ -21,8 +21,7 @@ Current research direction:
 |---|---|
 | ML / Research | Python, Jupyter, NumPy, pandas, PyTorch ecosystem |
 | Experimentation | Reproducible pipelines, metrics tracking, benchmark workflows |
-| Engineering | Docker, GitHub Actions-style automation patterns, CLI tooling |
-| Web / Product | TypeScript, Next.js, Tailwind CSS |
+| Engineering | Docker, automation workflows, CLI tooling |
 | Systems / Networking | Mininet, Vagrant, shell automation |
 
 ## Work Delivered (Public)
@@ -35,9 +34,6 @@ Current research direction:
 
 - [cifar10-laplace-calibration-study](https://github.com/sserkanakin/cifar10-laplace-calibration-study)
   Controlled reliability/calibration study comparing MAP and Laplace behavior.
-
-- [taut-website](https://github.com/sserkanakin/taut-website)
-  Production-style community website using modern full-stack TypeScript architecture.
 
 ## Visibility Strategy
 

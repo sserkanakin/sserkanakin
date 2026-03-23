@@ -1,34 +1,43 @@
-# Hi, I am Serkan
+<h1 align="center">Serkan Akin</h1>
+<p align="center"><strong>MSc Thesis Research: Spatio-Temporal Graph Forecasting</strong></p>
+<p align="center">
+  <a href="https://github.com/sserkanakin/spatio-temporal-graph-forecasting-thesis">Thesis Repository</a>
+  ·
+  <a href="https://sserkanakin.github.io">Portfolio Website</a>
+</p>
 
-I build AI, data, and full-stack products with a focus on practical research, reproducibility, and production-grade execution.
+## Focus
 
-## High-Impact Work (Public + Private)
+I am currently focused on one primary track:
 
-- Kaggle HMS (Harmful Brain Activity Classification): end-to-end ML workflow for data preparation, feature engineering, cross-validation, and model ensembling.
-- Multimodal model research: training and benchmarking pipelines for multi-image understanding.
-- Verification and synthesis tooling: heuristic experimentation with reproducible Docker-based runs.
-- Full-stack product delivery: modern TypeScript/Next.js applications with strong UX and deployment workflows.
+- **Master Thesis Research**: Spatio-temporal graph forecasting for real-world predictive tasks.
 
-## Featured Public Repositories
+Everything on this profile is organized to support rigorous research, reproducibility, and clear technical communication.
 
-- [tsa-web](https://github.com/sserkanakin/tsa-web): official website for the Turkish Association at the University of Twente.
-- [dtpaynt](https://github.com/sserkanakin/dtpaynt): PAYNT heuristic benchmarking playground.
-- [reproduction-project](https://github.com/sserkanakin/reproduction-project): dataset prep, fine-tuning, and benchmarking for multi-image understanding.
-- [controlled_dataset_laplace](https://github.com/sserkanakin/controlled_dataset_laplace): calibration experiments with MAP vs Laplace.
-- [mininet-vagrant](https://github.com/sserkanakin/mininet-vagrant): practical Mininet setup for networking experiments.
+## Thesis Project
 
-## Selected Private / Ongoing Projects
+### Spatio-Temporal Graph Forecasting
 
-- Saudade web platform and event stack.
-- Habit Voice SaaS platform.
-- Plaza automation tooling.
-- Additional coursework and research repositories.
+Repository: [spatio-temporal-graph-forecasting-thesis](https://github.com/sserkanakin/spatio-temporal-graph-forecasting-thesis)
 
-## What You Will Find On This Profile
+Current work includes:
+- data pipeline design for temporal graph signals
+- baseline and advanced forecasting models
+- experiment tracking and reproducibility workflow
+- error analysis and evaluation protocol refinement
 
-- Cleanly organized repositories with improved metadata and topics.
-- Stronger project documentation and README coverage.
-- A mix of AI research, systems, and product engineering work.
+## Selected Supporting Projects
+
+- [multimodal-understanding-reproduction-pipeline](https://github.com/sserkanakin/multimodal-understanding-reproduction-pipeline)
+- [paynt-heuristic-benchmarking](https://github.com/sserkanakin/paynt-heuristic-benchmarking)
+- [cifar10-laplace-calibration-study](https://github.com/sserkanakin/cifar10-laplace-calibration-study)
+
+## Profile Standards
+
+- clear repository names
+- meaningful descriptions and topics
+- complete README coverage
+- reproducible, structured project documentation
 
 ## Contact
 

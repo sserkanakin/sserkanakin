@@ -1,43 +1,36 @@
 <h1 align="center">Serkan Akin</h1>
-<p align="center"><strong>MSc Thesis Research: Spatio-Temporal Graph Forecasting</strong></p>
+<p align="center"><strong>MSc Student · Research in Progress</strong></p>
 <p align="center">
-  <a href="https://github.com/sserkanakin/spatio-temporal-graph-forecasting-thesis">Thesis Repository</a>
-  ·
   <a href="https://sserkanakin.github.io">Portfolio Website</a>
+  ·
+  <a href="https://github.com/sserkanakin">GitHub Profile</a>
 </p>
 
-## Focus
+## Current Focus
 
-I am currently focused on one primary track:
+My current master thesis research project is **in progress** and the repository is **not public yet**.
 
-- **Master Thesis Research**: Spatio-temporal graph forecasting for real-world predictive tasks.
+Research direction:
+- spatio-temporal graph forecasting
+- reproducible experiment pipelines
+- rigorous evaluation and error analysis
 
-Everything on this profile is organized to support rigorous research, reproducibility, and clear technical communication.
-
-## Thesis Project
-
-### Spatio-Temporal Graph Forecasting
-
-Repository: [spatio-temporal-graph-forecasting-thesis](https://github.com/sserkanakin/spatio-temporal-graph-forecasting-thesis)
-
-Current work includes:
-- data pipeline design for temporal graph signals
-- baseline and advanced forecasting models
-- experiment tracking and reproducibility workflow
-- error analysis and evaluation protocol refinement
-
-## Selected Supporting Projects
+## Public Work Available
 
 - [multimodal-understanding-reproduction-pipeline](https://github.com/sserkanakin/multimodal-understanding-reproduction-pipeline)
 - [paynt-heuristic-benchmarking](https://github.com/sserkanakin/paynt-heuristic-benchmarking)
 - [cifar10-laplace-calibration-study](https://github.com/sserkanakin/cifar10-laplace-calibration-study)
 
+## Archived/Older Work
+
+- [bachelor-thesis-research-archive](https://github.com/sserkanakin/bachelor-thesis-research-archive)
+
 ## Profile Standards
 
 - clear repository names
-- meaningful descriptions and topics
+- concise project descriptions
 - complete README coverage
-- reproducible, structured project documentation
+- organized research documentation
 
 ## Contact
 
